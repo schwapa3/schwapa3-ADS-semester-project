@@ -1,0 +1,1 @@
+Since the models are to big to be uploaded on github they can be found here: https://zhaw-my.sharepoint.com/:f:/g/personal/schwapa3_students_zhaw_ch/Egz5IkdaSAZIskWee2Bo3TMBFj3Y9EleVIC0Uo1oFN6urA
